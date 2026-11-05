@@ -1,0 +1,41 @@
+{
+  "delivery_charge": {
+    "enabled": true,
+    "keywords": [
+      "delivery charge", "delivery fee", "delivery cost",
+      "delivary charge", "delivary charj", "ডেলিভারি চার্জ",
+      "ডেলিভারি চারজ", "ডেলিভারি ফি", "কুরিয়ার চার্জ"
+    ],
+    "reply": "🚚 ডেলিভারি চার্জ:\n\nঢাকার ভিতরে: এখানে আপনার চার্জ লিখুন।\nঢাকার বাইরে: এখানে আপনার চার্জ লিখুন।\n\nঅর্ডার করতে চাইলে Product Code পাঠান।"
+  },
+  "payment_method": {
+    "enabled": true,
+    "keywords": [
+      "payment", "pay", "bkash", "বিকাশ", "নগদ", "নগদে",
+      "payment method", "কিভাবে পেমেন্ট", "পেমেন্ট কিভাবে"
+    ],
+    "reply": "💳 Payment Method:\n\nএখানে আপনার পেমেন্ট পদ্ধতি লিখুন।"
+  },
+  "return_policy": {
+    "enabled": true,
+    "keywords": [
+      "return", "refund", "রিটার্ন", "ফেরত", "টাকা ফেরত"
+    ],
+    "reply": "↩️ Return Policy:\n\nএখানে আপনার Return Policy লিখুন।"
+  },
+  "exchange_policy": {
+    "enabled": true,
+    "keywords": [
+      "exchange", "change", "এক্সচেঞ্জ", "বদল", "পরিবর্তন"
+    ],
+    "reply": "🔄 Exchange Policy:\n\nএখানে আপনার Exchange Policy লিখুন।"
+  },
+  "order_process": {
+    "enabled": true,
+    "keywords": [
+      "how to order", "order process", "order korte",
+      "অর্ডার কিভাবে", "অর্ডার করব", "অর্ডার করতে চাই"
+    ],
+    "reply": "🛒 অর্ডার করতে নিচের তথ্যগুলো পাঠান:\n\n1️⃣ Product Code:\n2️⃣ Customer Name:\n3️⃣ Phone Number:\n4️⃣ Full Delivery Address:\n\nধন্যবাদ আমাদের সাথে থাকার জন্য।"
+  }
+}
